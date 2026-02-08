@@ -1,0 +1,44 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3a5c5fb314ba90dfcaa5536aae8d656df9e9d6fb3521281cb44c9707c37fe0a8"
+    }
+  ],
+  "containerPath" : "/Volumes/Disk20G/Project/RtModbus/RtModbus.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/operator/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/operator/Library/Developer/Xcode/DerivedData/RtModbus-cuyflgaspkndqfcbqrdubuaesuag/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/operator/Library/Developer/Xcode/DerivedData/RtModbus-cuyflgaspkndqfcbqrdubuaesuag/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
